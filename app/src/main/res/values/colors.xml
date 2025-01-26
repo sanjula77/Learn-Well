@@ -7,4 +7,38 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Purple Variants -->
+    <color name="purple_300">#FFCF94FF</color>
+    <color name="purple_900">#FF240090</color>
+
+    <!-- Teal Variants -->
+    <color name="teal_300">#FF67E4D8</color>
+    <color name="teal_900">#FF006D60</color>
+
+    <!-- Accent Colors -->
+    <color name="blue_200">#FF90CAF9</color>
+    <color name="blue_500">#FF2196F3</color>
+    <color name="blue_700">#FF1976D2</color>
+
+    <color name="green_200">#FFA5D6A7</color>
+    <color name="green_500">#FF4CAF50</color>
+    <color name="green_700">#FF388E3C</color>
+
+    <!-- Neutral Colors -->
+    <color name="gray_100">#FFF5F5F5</color>
+    <color name="gray_300">#FFE0E0E0</color>
+    <color name="gray_500">#FF9E9E9E</color>
+    <color name="gray_700">#FF616161</color>
+    <color name="gray_900">#FF212121</color>
+
+    <!-- Warm Colors -->
+    <color name="orange_200">#FFFFAB91</color>
+    <color name="orange_500">#FFFF5722</color>
+    <color name="orange_700">#FFBF360C</color>
+
+    <color name="yellow_200">#FFFFF59D</color>
+    <color name="yellow_500">#FFFFEB3B</color>
+    <color name="yellow_700">#FFFBC02D</color>
+
 </resources>
